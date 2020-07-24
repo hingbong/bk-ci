@@ -10,7 +10,7 @@ on:
     paths:
     - 'src/backend/ci/**'
   pull_request:
-    branches: [ master ]
+    branches: [ docker_cluster ]
     paths:
     - 'src/backend/ci/**'
 
